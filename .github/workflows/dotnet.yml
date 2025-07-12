@@ -1,42 +1,24 @@
-name: Build Changed .NET Projects
+- name: Get changed project folders
+  id: changed
+  run: |
+    echo "##[group]Finding changed folders"
+    git fetch origin ${{ github.event.before }}
+    CHANGED_FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.cs$' | xargs -n1 dirname | sort -u)
+    echo "Changed folders: $CHANGED_FOLDERS"
+    echo "folders=$CHANGED_FOLDERS" >> $GITHUB_OUTPUT
+    echo "##[endgroup]"
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+- name: Find and build .csproj in changed folders
+  if: steps.changed.outputs.folders != ''
+  run: |
+    for folder in ${{ steps.changed.outputs.folders }}; do
+      echo "Looking for .csproj in $folder"
+      for proj in $(find "$folder" -name '*.csproj'); do
+        echo "Building $proj"
+        dotnet build "$proj"
+      done
+    done
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: '8.0.x'  # Use your .NET version
-
-    - name: Get changed projects
-      id: changed
-      run: |
-        echo "##[group]Finding changed .csproj files"
-        git fetch origin ${{ github.event.before }}
-        CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.csproj$' | xargs)
-        echo "Changed projects: $CHANGED"
-        echo "changed=$CHANGED" >> $GITHUB_OUTPUT
-        echo "##[endgroup]"
-
-    - name: Build changed projects
-      if: steps.changed.outputs.changed != ''
-      run: |
-        for proj in ${{ steps.changed.outputs.changed }}; do
-          echo "Building $proj"
-          dotnet build "$proj"
-        done
-
-    - name: No projects changed
-      if: steps.changed.outputs.changed == ''
-      run: echo "No .csproj changes detected."
+- name: No projects changed
+  if: steps.changed.outputs.folders == ''
+  run: echo "No code changes detected."
