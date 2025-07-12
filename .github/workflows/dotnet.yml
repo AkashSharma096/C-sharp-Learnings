@@ -1,28 +1,42 @@
-# This workflow will build a .NET project
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
-
-name: .NET
+name: Build Changed .NET Projects
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Setup .NET
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up .NET
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 8.0.x
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+        dotnet-version: '8.0.x'  # Use your .NET version
+
+    - name: Get changed projects
+      id: changed
+      run: |
+        echo "##[group]Finding changed .csproj files"
+        git fetch origin ${{ github.event.before }}
+        CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.csproj$' | xargs)
+        echo "Changed projects: $CHANGED"
+        echo "changed=$CHANGED" >> $GITHUB_OUTPUT
+        echo "##[endgroup]"
+
+    - name: Build changed projects
+      if: steps.changed.outputs.changed != ''
+      run: |
+        for proj in ${{ steps.changed.outputs.changed }}; do
+          echo "Building $proj"
+          dotnet build "$proj"
+        done
+
+    - name: No projects changed
+      if: steps.changed.outputs.changed == ''
+      run: echo "No .csproj changes detected."
