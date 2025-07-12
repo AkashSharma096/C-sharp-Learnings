@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/HelloWorld/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
