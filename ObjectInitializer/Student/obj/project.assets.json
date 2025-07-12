@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akashsharma/Development/C# Projects/ObjectInitializer/Student/Student.csproj",
+      "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/ObjectInitializer/Student/Student.csproj",
       "projectName": "Student",
-      "projectPath": "/Users/akashsharma/Development/C# Projects/ObjectInitializer/Student/Student.csproj",
+      "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/ObjectInitializer/Student/Student.csproj",
       "packagesPath": "/Users/akashsharma/.nuget/packages/",
-      "outputPath": "/Users/akashsharma/Development/C# Projects/ObjectInitializer/Student/obj/",
+      "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/ObjectInitializer/Student/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akashsharma/.nuget/NuGet/NuGet.Config"
