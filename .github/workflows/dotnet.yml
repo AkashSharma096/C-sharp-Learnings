@@ -1,4 +1,4 @@
-name: Dotnet CI
+name: Build Changed .NET Projects
 
 on:
   push:
@@ -11,27 +11,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - uses: actions/setup-dotnet@v4
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v4
       with:
         dotnet-version: '8.0.x'
 
-    - name: Get changed projects
+    - name: Get changed folders
       id: changed
       run: |
+        echo "##[group]Finding folders with changed .cs files"
         git fetch origin ${{ github.event.before }}
-        CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.csproj$' | xargs)
-        echo "changed=$CHANGED" >> $GITHUB_OUTPUT
+        FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.cs$' | xargs -n1 dirname | sort -u)
+        echo "Changed folders: $FOLDERS"
+        echo "folders=$FOLDERS" >> $GITHUB_OUTPUT
+        echo "##[endgroup]"
 
-    - name: Build changed projects
-      if: steps.changed.outputs.changed != ''
+    - name: Build projects in changed folders
+      if: steps.changed.outputs.folders != ''
       run: |
-        for proj in ${{ steps.changed.outputs.changed }}; do
-          echo "Building $proj"
-          dotnet build "$proj"
+        for folder in ${{ steps.changed.outputs.folders }}; do
+          echo "Checking $folder for .csproj files"
+          for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
+            echo "Building $proj"
+            dotnet build "$proj"
+          done
         done
 
     - name: No projects changed
-      if: steps.changed.outputs.changed == ''
-      run: echo "No .csproj changes detected."
+      if: steps.changed.outputs.folders == ''
+      run: echo "No .cs files changed."
