@@ -1,0 +1,14 @@
+Z:\C# Projects\Reference Variable as Arguments\bin\Debug\net9.0\Reference Variable as Arguments.exe
+Z:\C# Projects\Reference Variable as Arguments\bin\Debug\net9.0\Reference Variable as Arguments.deps.json
+Z:\C# Projects\Reference Variable as Arguments\bin\Debug\net9.0\Reference Variable as Arguments.runtimeconfig.json
+Z:\C# Projects\Reference Variable as Arguments\bin\Debug\net9.0\Reference Variable as Arguments.dll
+Z:\C# Projects\Reference Variable as Arguments\bin\Debug\net9.0\Reference Variable as Arguments.pdb
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.AssemblyInfoInputs.cache
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.AssemblyInfo.cs
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.csproj.CoreCompileInputs.cache
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.dll
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\refint\Reference Variable as Arguments.dll
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.pdb
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\Reference Variable as Arguments.genruntimeconfig.cache
+Z:\C# Projects\Reference Variable as Arguments\obj\Debug\net9.0\ref\Reference Variable as Arguments.dll

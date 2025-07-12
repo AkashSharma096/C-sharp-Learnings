@@ -1,0 +1,28 @@
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/bin/Debug/net9.0/Parsing
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/bin/Debug/net9.0/Parsing.deps.json
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/bin/Debug/net9.0/Parsing.runtimeconfig.json
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/bin/Debug/net9.0/Parsing.dll
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/bin/Debug/net9.0/Parsing.pdb
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.dll
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/refint/Parsing.dll
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.pdb
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/Parsing.genruntimeconfig.cache
+/Users/akashsharma/Development/C# Projects/Parsing/Parsing/obj/Debug/net9.0/ref/Parsing.dll
+Y:\Parsing\Parsing\bin\Debug\net9.0\Parsing.exe
+Y:\Parsing\Parsing\bin\Debug\net9.0\Parsing.deps.json
+Y:\Parsing\Parsing\bin\Debug\net9.0\Parsing.runtimeconfig.json
+Y:\Parsing\Parsing\bin\Debug\net9.0\Parsing.dll
+Y:\Parsing\Parsing\bin\Debug\net9.0\Parsing.pdb
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.AssemblyInfoInputs.cache
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.AssemblyInfo.cs
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.csproj.CoreCompileInputs.cache
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.dll
+Y:\Parsing\Parsing\obj\Debug\net9.0\refint\Parsing.dll
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.pdb
+Y:\Parsing\Parsing\obj\Debug\net9.0\Parsing.genruntimeconfig.cache
+Y:\Parsing\Parsing\obj\Debug\net9.0\ref\Parsing.dll

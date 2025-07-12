@@ -1,0 +1,4 @@
+/Users/akashsharma/Development/C# Projects/Encapsulation/obj/Debug/net8.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/Encapsulation/obj/Debug/net8.0/Encapsulation.csproj.CoreCompileInputs.cache

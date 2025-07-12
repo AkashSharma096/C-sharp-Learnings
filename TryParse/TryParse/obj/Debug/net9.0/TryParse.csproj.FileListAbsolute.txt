@@ -1,0 +1,14 @@
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/bin/Debug/net9.0/TryParse
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/bin/Debug/net9.0/TryParse.deps.json
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/bin/Debug/net9.0/TryParse.runtimeconfig.json
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/bin/Debug/net9.0/TryParse.dll
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/bin/Debug/net9.0/TryParse.pdb
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.dll
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/refint/TryParse.dll
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.pdb
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/TryParse.genruntimeconfig.cache
+/Users/akashsharma/Development/C# Projects/TryParse/TryParse/obj/Debug/net9.0/ref/TryParse.dll

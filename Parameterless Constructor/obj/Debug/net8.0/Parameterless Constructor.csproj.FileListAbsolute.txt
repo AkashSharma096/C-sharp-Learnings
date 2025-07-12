@@ -1,0 +1,18 @@
+Y:\Parameterless Constructor\bin\Debug\net8.0\Parameterless Constructor.exe
+Y:\Parameterless Constructor\bin\Debug\net8.0\Parameterless Constructor.deps.json
+Y:\Parameterless Constructor\bin\Debug\net8.0\Parameterless Constructor.runtimeconfig.json
+Y:\Parameterless Constructor\bin\Debug\net8.0\Parameterless Constructor.dll
+Y:\Parameterless Constructor\bin\Debug\net8.0\Parameterless Constructor.pdb
+Y:\Parameterless Constructor\bin\Debug\net8.0\Sample.dll
+Y:\Parameterless Constructor\bin\Debug\net8.0\Sample.pdb
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.csproj.AssemblyReference.cache
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.AssemblyInfoInputs.cache
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.AssemblyInfo.cs
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.csproj.CoreCompileInputs.cache
+Y:\Parameterless Constructor\obj\Debug\net8.0\Paramete.FBF2DE10.Up2Date
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.dll
+Y:\Parameterless Constructor\obj\Debug\net8.0\refint\Parameterless Constructor.dll
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.pdb
+Y:\Parameterless Constructor\obj\Debug\net8.0\Parameterless Constructor.genruntimeconfig.cache
+Y:\Parameterless Constructor\obj\Debug\net8.0\ref\Parameterless Constructor.dll

@@ -1,0 +1,6 @@
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\bin\Debug\Product.dll
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\bin\Debug\Product.pdb
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\obj\Debug\Product.dll
+C:\Users\ASA960\OneDrive - Maersk Group\Desktop\C# Projects\FieldExample\Product\obj\Debug\Product.pdb

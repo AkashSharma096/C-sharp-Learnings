@@ -1,0 +1,14 @@
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.AssemblyInfoInputs.cache
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.AssemblyInfo.cs
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.csproj.CoreCompileInputs.cache
+Z:\C# Projects\Reference variables as Fields\bin\Debug\net9.0\Reference variables as Fields.exe
+Z:\C# Projects\Reference variables as Fields\bin\Debug\net9.0\Reference variables as Fields.deps.json
+Z:\C# Projects\Reference variables as Fields\bin\Debug\net9.0\Reference variables as Fields.runtimeconfig.json
+Z:\C# Projects\Reference variables as Fields\bin\Debug\net9.0\Reference variables as Fields.dll
+Z:\C# Projects\Reference variables as Fields\bin\Debug\net9.0\Reference variables as Fields.pdb
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.dll
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\refint\Reference variables as Fields.dll
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.pdb
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\Reference variables as Fields.genruntimeconfig.cache
+Z:\C# Projects\Reference variables as Fields\obj\Debug\net9.0\ref\Reference variables as Fields.dll

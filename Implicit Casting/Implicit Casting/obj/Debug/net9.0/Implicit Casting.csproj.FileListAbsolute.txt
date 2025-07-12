@@ -1,0 +1,14 @@
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/bin/Debug/net9.0/Implicit Casting
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/bin/Debug/net9.0/Implicit Casting.deps.json
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/bin/Debug/net9.0/Implicit Casting.runtimeconfig.json
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/bin/Debug/net9.0/Implicit Casting.dll
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/bin/Debug/net9.0/Implicit Casting.pdb
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.dll
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/refint/Implicit Casting.dll
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.pdb
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/Implicit Casting.genruntimeconfig.cache
+/Users/akashsharma/Development/C# Projects/Implicit Casting/Implicit Casting/obj/Debug/net9.0/ref/Implicit Casting.dll

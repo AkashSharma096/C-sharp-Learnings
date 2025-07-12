@@ -1,0 +1,14 @@
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/bin/Debug/net9.0/Call by output
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/bin/Debug/net9.0/Call by output.deps.json
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/bin/Debug/net9.0/Call by output.runtimeconfig.json
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/bin/Debug/net9.0/Call by output.dll
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/bin/Debug/net9.0/Call by output.pdb
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.dll
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/refint/Call by output.dll
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.pdb
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/Call by output.genruntimeconfig.cache
+/Users/akashsharma/Development/C# Projects/Call by output/Call by output/obj/Debug/net9.0/ref/Call by output.dll

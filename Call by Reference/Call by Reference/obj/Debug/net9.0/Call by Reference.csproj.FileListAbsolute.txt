@@ -1,0 +1,14 @@
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.AssemblyInfo.cs
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/bin/Debug/net9.0/Call by Reference
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/bin/Debug/net9.0/Call by Reference.deps.json
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/bin/Debug/net9.0/Call by Reference.runtimeconfig.json
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/bin/Debug/net9.0/Call by Reference.dll
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/bin/Debug/net9.0/Call by Reference.pdb
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.dll
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/refint/Call by Reference.dll
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.pdb
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/Call by Reference.genruntimeconfig.cache
+/Users/akashsharma/Development/C# Projects/Call by Reference/Call by Reference/obj/Debug/net9.0/ref/Call by Reference.dll
