@@ -1,4 +1,4 @@
-name: Build Changed .NET Projects
+name: Build and Run Changed .NET Projects
 
 on:
   push:
@@ -11,35 +11,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: '9.0.x'
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x' # use 8.0.x if you target net8.0
 
-    - name: Get changed folders
-      id: changed
-      run: |
-        echo "##[group]Finding folders with changed .cs files"
-        git fetch origin ${{ github.event.before }}
-        FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.cs$' | xargs -n1 dirname | sort -u)
-        echo "Changed folders: $FOLDERS"
-        echo "folders=$FOLDERS" >> $GITHUB_OUTPUT
-        echo "##[endgroup]"
+      - name: Get changed folders
+        id: changed
+        run: |
+          echo "##[group]Finding folders with changed .cs files"
+          git fetch origin ${{ github.event.before }}
+          FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
+            | grep '\.cs$' \
+            | grep -v '^.*\/obj\/' \
+            | grep -v '^.*\/bin\/' \
+            | xargs -n1 dirname | sort -u)
+          echo "Changed folders: $FOLDERS"
+          echo "folders=$FOLDERS" >> $GITHUB_OUTPUT
+          echo "##[endgroup]"
 
-    - name: Build projects in changed folders
-      if: steps.changed.outputs.folders != ''
-      run: |
-        for folder in ${{ steps.changed.outputs.folders }}; do
-          echo "Checking $folder for .csproj files"
-          for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
-            echo "Building $proj"
-            dotnet build "$proj"
+      - name: Build and run projects in changed folders
+        if: steps.changed.outputs.folders != ''
+        run: |
+          for folder in ${{ steps.changed.outputs.folders }}; do
+            echo "Checking $folder for .csproj files"
+            for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
+              echo "Building $proj"
+              dotnet build "$proj"
+              echo "Running $proj"
+              dotnet run --project "$proj"
+            done
           done
-        done
 
-    - name: No projects changed
-      if: steps.changed.outputs.folders == ''
-      run: echo "No .cs files changed."
+      - name: No projects changed
+        if: steps.changed.outputs.folders == ''
+        run: echo "No source file changes detected."
