@@ -10,10 +10,10 @@
 
 
         Student student = new Student();
-        student.personName = "Jane Smith";
+        student.personName = "Jane Warner";
         student.personGender = "Female";
         student.studentId = "S12345";
-        student.studentClass = "10th Grade";
+        student.studentClass = "12th Grade";
         student.DisplayStudent();
 
 
