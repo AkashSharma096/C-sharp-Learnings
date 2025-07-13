@@ -17,7 +17,7 @@ jobs:
       - name: Set up .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x' # use 8.0.x if you target net8.0
+          dotnet-version: '9.0.x'
 
       - name: Get changed folders
         id: changed
@@ -29,13 +29,17 @@ jobs:
             | grep -v '^.*\/obj\/' \
             | grep -v '^.*\/bin\/' \
             | xargs -n1 dirname | sort -u)
-          echo "Changed folders: $FOLDERS"
-          echo "folders=$FOLDERS" >> $GITHUB_OUTPUT
+          echo "Changed folders:"
+          echo "$FOLDERS"
+          echo "folders<<EOF" >> $GITHUB_OUTPUT
+          echo "$FOLDERS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
           echo "##[endgroup]"
 
       - name: Build and run projects in changed folders
         if: steps.changed.outputs.folders != ''
         run: |
+          IFS=$'\n'
           for folder in ${{ steps.changed.outputs.folders }}; do
             echo "Checking $folder for .csproj files"
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
