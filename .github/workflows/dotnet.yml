@@ -38,9 +38,12 @@ jobs:
 
       - name: Build and run projects in changed folders
         if: steps.changed.outputs.folders != ''
+        env:
+          CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}
         run: |
+          echo "CHANGED_FOLDERS: $CHANGED_FOLDERS"
           IFS=$'\n'
-          for folder in ${{ steps.changed.outputs.folders }}; do
+          for folder in $CHANGED_FOLDERS; do
             echo "Checking $folder for .csproj files"
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
               echo "Building $proj"
