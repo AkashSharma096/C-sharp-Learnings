@@ -11,7 +11,7 @@
         System.Console.WriteLine($"Person Name: {p.personName}");
         System.Console.WriteLine($"Person Gender: {p.personGender}");
 
-        /************* Creating object for Child classes ***************/
+        /************* Creating object for Child classes *****************/
 
         // Creating object for Student class
         Student s = new Student();
