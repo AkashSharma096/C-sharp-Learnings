@@ -8,24 +8,32 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/akashsharma/.nuget/packages/": {}
+    "C:\\Users\\akashsharma\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/baseKeyword/Person/Person.csproj",
+      "projectUniqueName": "Z:\\baseKeyword\\Person\\Person.csproj",
       "projectName": "Person",
-      "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/baseKeyword/Person/Person.csproj",
-      "packagesPath": "/Users/akashsharma/.nuget/packages/",
-      "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/baseKeyword/Person/obj/",
+      "projectPath": "Z:\\baseKeyword\\Person\\Person.csproj",
+      "packagesPath": "C:\\Users\\akashsharma\\.nuget\\packages\\",
+      "outputPath": "Z:\\baseKeyword\\Person\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/akashsharma/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\akashsharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
