@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        Student s = new Student("Allen", 20, "Male", "S12345", 85);
+        Student s = new Student("Allen", 20, "Male", "S123456", 85);
         s.DisplayStudentInfo();
         Console.WriteLine("\n");
 
