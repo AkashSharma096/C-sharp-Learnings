@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
