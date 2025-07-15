@@ -48,7 +48,10 @@ jobs:
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
               echo "Building $proj"
               dotnet build "$proj"
-              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj" || echo "Exe")
+              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj")
+              if [ -z "$OUTPUT_TYPE" ]; then
+                OUTPUT_TYPE="Library"
+              fi
               echo "OutputType: $OUTPUT_TYPE"
               if [ "$OUTPUT_TYPE" = "Exe" ]; then
                 echo "Running $proj"
