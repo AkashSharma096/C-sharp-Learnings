@@ -4,9 +4,7 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -25,34 +23,34 @@ jobs:
         id: changed
         run: |
           echo "##[group]Finding folders with changed .cs files"
-          CHANGED=$(git diff --name-only HEAD^ HEAD | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            echo "Previous commit exists, using HEAD^"
+            CHANGED=$(git diff --name-only HEAD^ HEAD | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
+          else
+            echo "No previous commit (first push or force-push), using all files"
+            CHANGED=$(git ls-files '*.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
+          fi
           echo "Changed folders: $CHANGED"
           echo "folders=$CHANGED" >> $GITHUB_OUTPUT
           echo "##[endgroup]"
 
       - name: Build and run changed projects
-        if: steps.changed.outputs.folders != ''
-        env:
-          CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}
         run: |
-          echo "CHANGED_FOLDERS: $CHANGED_FOLDERS"
+          echo "CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}"
           IFS=$'\n'
-          for folder in $CHANGED_FOLDERS; do
+          for folder in ${{ steps.changed.outputs.folders }}; do
             echo "Checking $folder for .csproj files"
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
               echo "Building $proj"
               dotnet build "$proj"
-              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj")
-              if [ -z "$OUTPUT_TYPE" ]; then
-                OUTPUT_TYPE="Library"
-              fi
+              # Check if it's an Exe, only run if executable
+              OUTPUT_TYPE=$(grep '<OutputType>' "$proj" | sed -n 's:.*<OutputType>\(.*\)</OutputType>.*:\1:p')
               echo "OutputType: $OUTPUT_TYPE"
-              HAS_MAIN=$(grep -l 'static void Main' "$folder"/*.cs || true)
-              if [ "$OUTPUT_TYPE" = "Exe" ] && [ -n "$HAS_MAIN" ]; then
+              if [ "$OUTPUT_TYPE" = "Exe" ]; then
                 echo "Running $proj"
                 dotnet run --project "$proj"
               else
-                echo "Skipping run for library project or no Main: $proj"
+                echo "Skipping run for $proj because it's a class library."
               fi
             done
           done
