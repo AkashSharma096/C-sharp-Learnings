@@ -19,18 +19,18 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x' # Match your target framework
+          dotnet-version: '9.0.x'
 
       - name: Detect changed folders
         id: changed
         run: |
           echo "##[group]Finding folders with changed .cs files"
-          CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
+          CHANGED=$(git diff --name-only HEAD^ HEAD | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
           echo "Changed folders: $CHANGED"
           echo "folders=$CHANGED" >> $GITHUB_OUTPUT
           echo "##[endgroup]"
 
-      - name: Build and run projects in changed folders
+      - name: Build and run changed projects
         if: steps.changed.outputs.folders != ''
         env:
           CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}
