@@ -1,56 +1,67 @@
-name: Build and Run .NET Projects
+name: Build and Run Changed .NET Projects
 
 on:
   push:
-    branches:
-      - main
-  workflow_dispatch:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Setup .NET
+      - name: Set up .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '9.0.x'
 
-      - name: Detect changed folders
+      - name: Get changed folders
         id: changed
         run: |
           echo "##[group]Finding folders with changed .cs files"
-          if git rev-parse HEAD^ >/dev/null 2>&1; then
-            echo "Previous commit exists, using HEAD^"
-            CHANGED=$(git diff --name-only HEAD^ HEAD | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
-          else
-            echo "No previous commit (first push or force-push), using all files"
-            CHANGED=$(git ls-files '*.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
-          fi
-          echo "Changed folders: $CHANGED"
-          echo "folders=$CHANGED" >> $GITHUB_OUTPUT
+          git fetch origin ${{ github.event.before }}
+          FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
+            | grep '\.cs$' \
+            | grep -v '^.*\/obj\/' \
+            | grep -v '^.*\/bin\/' \
+            | xargs -n1 dirname | sort -u)
+          echo "Changed folders:"
+          echo "$FOLDERS"
+          echo "folders<<EOF" >> $GITHUB_OUTPUT
+          echo "$FOLDERS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
           echo "##[endgroup]"
 
-      - name: Build and run changed projects
+      - name: Build and run projects in changed folders
+        if: steps.changed.outputs.folders != ''
+        env:
+          CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}
         run: |
-          echo "CHANGED_FOLDERS: ${{ steps.changed.outputs.folders }}"
+          echo "CHANGED_FOLDERS: $CHANGED_FOLDERS"
           IFS=$'\n'
-          for folder in ${{ steps.changed.outputs.folders }}; do
+          for folder in $CHANGED_FOLDERS; do
             echo "Checking $folder for .csproj files"
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
               echo "Building $proj"
               dotnet build "$proj"
-              # Check if it's an Exe, only run if executable
-              OUTPUT_TYPE=$(grep '<OutputType>' "$proj" | sed -n 's:.*<OutputType>\(.*\)</OutputType>.*:\1:p')
+              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj")
+              if [ -z "$OUTPUT_TYPE" ]; then
+                OUTPUT_TYPE="Library"
+              fi
               echo "OutputType: $OUTPUT_TYPE"
               if [ "$OUTPUT_TYPE" = "Exe" ]; then
                 echo "Running $proj"
                 dotnet run --project "$proj"
               else
-                echo "Skipping run for $proj because it's a class library."
+                echo "Skipping run for library project: $proj"
               fi
             done
           done
+
+      - name: No projects changed
+        if: steps.changed.outputs.folders == ''
+        run: echo "No source file changes detected."
