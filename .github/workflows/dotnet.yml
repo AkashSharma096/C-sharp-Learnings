@@ -1,39 +1,33 @@
-name: Build and Run Changed .NET Projects
+name: Build and Run .NET Projects
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Set up .NET
+      - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x'
+          dotnet-version: '9.0.x' # Match your target framework
 
-      - name: Get changed folders
+      - name: Detect changed folders
         id: changed
         run: |
           echo "##[group]Finding folders with changed .cs files"
-          git fetch origin ${{ github.event.before }}
-          FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
-            | grep '\.cs$' \
-            | grep -v '^.*\/obj\/' \
-            | grep -v '^.*\/bin\/' \
-            | xargs -n1 dirname | sort -u)
-          echo "Changed folders:"
-          echo "$FOLDERS"
-          echo "folders<<EOF" >> $GITHUB_OUTPUT
-          echo "$FOLDERS" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.cs' | awk -F/ '{print $1"/"$2}' | sort -u)
+          echo "Changed folders: $CHANGED"
+          echo "folders=$CHANGED" >> $GITHUB_OUTPUT
           echo "##[endgroup]"
 
       - name: Build and run projects in changed folders
@@ -53,15 +47,12 @@ jobs:
                 OUTPUT_TYPE="Library"
               fi
               echo "OutputType: $OUTPUT_TYPE"
-              if [ "$OUTPUT_TYPE" = "Exe" ]; then
+              HAS_MAIN=$(grep -l 'static void Main' "$folder"/*.cs || true)
+              if [ "$OUTPUT_TYPE" = "Exe" ] && [ -n "$HAS_MAIN" ]; then
                 echo "Running $proj"
                 dotnet run --project "$proj"
               else
-                echo "Skipping run for library project: $proj"
+                echo "Skipping run for library project or no Main: $proj"
               fi
             done
           done
-
-      - name: No projects changed
-        if: steps.changed.outputs.folders == ''
-        run: echo "No source file changes detected."
