@@ -7,7 +7,7 @@
             PersonName = "John Doe",
             PersonGender = "Male",
             EmployeeId = 12345,
-            EmployeeSalary = 85000.00
+            EmployeeSalary = 75000.00
         };
 
         emp.Display();
