@@ -55,7 +55,9 @@ jobs:
               echo "OutputType: $OUTPUT_TYPE"
               if [ "$OUTPUT_TYPE" = "Exe" ]; then
                 echo "Running $proj"
-                dotnet run --project "$proj" || echo "dotnet run for $proj exited non-zero but build passed."
+                if ! dotnet run --project "$proj"; then
+                  echo "⚠️ dotnet run for $proj exited non-zero but build passed."
+                fi
               else
                 echo "Skipping run for library project: $proj"
               fi
