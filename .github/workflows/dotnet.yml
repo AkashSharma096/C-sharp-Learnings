@@ -48,11 +48,16 @@ jobs:
             for proj in $(find "$folder" -maxdepth 1 -name '*.csproj'); do
               echo "Building $proj"
               dotnet build "$proj"
-              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj")
+
+              # ✅ fix: grep never fails the job
+              OUTPUT_TYPE=$(grep -oPm1 "(?<=<OutputType>)[^<]+" "$proj" || true)
+
               if [ -z "$OUTPUT_TYPE" ]; then
                 OUTPUT_TYPE="Library"
               fi
+
               echo "OutputType: $OUTPUT_TYPE"
+
               if [ "$OUTPUT_TYPE" = "Exe" ]; then
                 echo "Running $proj"
                 if ! dotnet run --project "$proj"; then
@@ -60,7 +65,6 @@ jobs:
                 fi
               else
                 echo "Skipping run for library project: $proj"
-                true  # ✅ ensure 'else' never exits non-zero
               fi
             done
           done
