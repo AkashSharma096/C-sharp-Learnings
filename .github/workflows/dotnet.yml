@@ -60,6 +60,7 @@ jobs:
                 fi
               else
                 echo "Skipping run for library project: $proj"
+                true  # ✅ ensure 'else' never exits non-zero
               fi
             done
           done
