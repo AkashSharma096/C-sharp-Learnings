@@ -14,10 +14,10 @@ public class Employee : Person
 
     public override void Display()
     {
-        Console.WriteLine("Employee Name : " + base.PersonName);
-        Console.WriteLine("Employee Gender : " + base.PersonGender);
-        Console.WriteLine("Employee ID : " + this.EmployeeId);
-        Console.WriteLine("Employee Salary : " + this.EmployeeSalary);
+        Console.WriteLine("Employee Name is : " + base.PersonName);
+        Console.WriteLine("Employee Gender is : " + base.PersonGender);
+        Console.WriteLine("Employee ID is : " + this.EmployeeId);
+        Console.WriteLine("Employee Salary is : " + this.EmployeeSalary);
         Console.WriteLine("\n");
     }
 }
