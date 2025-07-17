@@ -1,0 +1,12 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/bin/Debug/net9.0/Person.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/bin/Debug/net9.0/Person.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/bin/Debug/net9.0/Person.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/refint/Person.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/Person.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Interfaces/Person/obj/Debug/net9.0/ref/Person.dll
