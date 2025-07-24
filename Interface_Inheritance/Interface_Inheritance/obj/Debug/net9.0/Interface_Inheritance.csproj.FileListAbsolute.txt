@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/bin/Debug/net9.0/Interface_Inheritance
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/bin/Debug/net9.0/Interface_Inheritance.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/bin/Debug/net9.0/Interface_Inheritance.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/bin/Debug/net9.0/Interface_Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/bin/Debug/net9.0/Interface_Inheritance.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/refint/Interface_Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/Interface_Inheritance.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Interface_Inheritance/Interface_Inheritance/obj/Debug/net9.0/ref/Interface_Inheritance.dll
