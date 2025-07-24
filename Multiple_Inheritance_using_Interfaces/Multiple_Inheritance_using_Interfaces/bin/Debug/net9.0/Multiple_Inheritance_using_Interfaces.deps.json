@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Multiple_Inheritance_using_Interfaces/1.0.0": {
+        "runtime": {
+          "Multiple_Inheritance_using_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiple_Inheritance_using_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

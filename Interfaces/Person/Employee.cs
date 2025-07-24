@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices;
+
 public class Employee : IPerson
 {
     public string PersonName { get; set; }
@@ -14,4 +16,3 @@ public class Employee : IPerson
         Console.WriteLine("Employee Salary: " + EmploeeSalary);
     }
 }
-
