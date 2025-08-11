@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/bin/Debug/net9.0/Explicit-Interface-Inheritance
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/bin/Debug/net9.0/Explicit-Interface-Inheritance.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/bin/Debug/net9.0/Explicit-Interface-Inheritance.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/bin/Debug/net9.0/Explicit-Interface-Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/bin/Debug/net9.0/Explicit-Interface-Inheritance.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/refint/Explicit-Interface-Inheritance.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/Explicit-Interface-Inheritance.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Explicit-Interface-Inheritance/Explicit-Interface-Inheritance/obj/Debug/net9.0/ref/Explicit-Interface-Inheritance.dll
