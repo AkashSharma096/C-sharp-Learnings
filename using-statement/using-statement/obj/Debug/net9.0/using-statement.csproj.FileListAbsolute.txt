@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/bin/Debug/net9.0/using-statement
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/bin/Debug/net9.0/using-statement.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/bin/Debug/net9.0/using-statement.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/bin/Debug/net9.0/using-statement.dll
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/bin/Debug/net9.0/using-statement.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.dll
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/refint/using-statement.dll
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/using-statement.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/using-statement/using-statement/obj/Debug/net9.0/ref/using-statement.dll
