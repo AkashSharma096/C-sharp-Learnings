@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/bin/Debug/net9.0/Child-Namespaces
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/bin/Debug/net9.0/Child-Namespaces.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/bin/Debug/net9.0/Child-Namespaces.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/bin/Debug/net9.0/Child-Namespaces.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/bin/Debug/net9.0/Child-Namespaces.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/refint/Child-Namespaces.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/Child-Namespaces.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Child-Namespaces/Child-Namespaces/obj/Debug/net9.0/ref/Child-Namespaces.dll
