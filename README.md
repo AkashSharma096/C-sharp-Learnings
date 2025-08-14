@@ -76,7 +76,7 @@ Whether you're a beginner learning C# for the first time or revisiting concepts 
 ## 🛠 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AkashSharma096/C-sharp-Learnings.git
    ```
 2. Open the project folder in **Visual Studio** or **Rider**.
 3. Build and run individual projects to explore each concept.
