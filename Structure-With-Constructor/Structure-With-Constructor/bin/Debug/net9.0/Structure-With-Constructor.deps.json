@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Structure-With-Constructor/1.0.0": {
+        "runtime": {
+          "Structure-With-Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Structure-With-Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

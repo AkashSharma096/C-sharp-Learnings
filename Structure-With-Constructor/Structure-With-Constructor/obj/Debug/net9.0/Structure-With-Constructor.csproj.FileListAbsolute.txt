@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/bin/Debug/net9.0/Structure-With-Constructor
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/bin/Debug/net9.0/Structure-With-Constructor.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/bin/Debug/net9.0/Structure-With-Constructor.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/bin/Debug/net9.0/Structure-With-Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/bin/Debug/net9.0/Structure-With-Constructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/refint/Structure-With-Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/Structure-With-Constructor.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Structure-With-Constructor/Structure-With-Constructor/obj/Debug/net9.0/ref/Structure-With-Constructor.dll
