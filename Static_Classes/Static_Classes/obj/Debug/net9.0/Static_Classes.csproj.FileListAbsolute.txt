@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/bin/Debug/net9.0/Static_Classes
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/bin/Debug/net9.0/Static_Classes.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/bin/Debug/net9.0/Static_Classes.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/bin/Debug/net9.0/Static_Classes.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/bin/Debug/net9.0/Static_Classes.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/refint/Static_Classes.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/Static_Classes.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Classes/Static_Classes/obj/Debug/net9.0/ref/Static_Classes.dll
