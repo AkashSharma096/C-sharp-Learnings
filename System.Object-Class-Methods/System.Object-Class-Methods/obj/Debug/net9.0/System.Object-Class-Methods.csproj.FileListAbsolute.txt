@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/bin/Debug/net9.0/System.Object-Class-Methods
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/bin/Debug/net9.0/System.Object-Class-Methods.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/bin/Debug/net9.0/System.Object-Class-Methods.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/bin/Debug/net9.0/System.Object-Class-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/bin/Debug/net9.0/System.Object-Class-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/refint/System.Object-Class-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/System.Object-Class-Methods.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class-Methods/System.Object-Class-Methods/obj/Debug/net9.0/ref/System.Object-Class-Methods.dll
