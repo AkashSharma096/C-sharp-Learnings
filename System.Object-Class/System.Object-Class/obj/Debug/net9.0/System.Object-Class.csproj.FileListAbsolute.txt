@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/bin/Debug/net9.0/System.Object-Class
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/bin/Debug/net9.0/System.Object-Class.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/bin/Debug/net9.0/System.Object-Class.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/bin/Debug/net9.0/System.Object-Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/bin/Debug/net9.0/System.Object-Class.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/refint/System.Object-Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/System.Object-Class.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/System.Object-Class/System.Object-Class/obj/Debug/net9.0/ref/System.Object-Class.dll
