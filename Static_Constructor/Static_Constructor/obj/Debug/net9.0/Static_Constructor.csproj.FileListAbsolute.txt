@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/bin/Debug/net9.0/Static_Constructor
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/bin/Debug/net9.0/Static_Constructor.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/bin/Debug/net9.0/Static_Constructor.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/bin/Debug/net9.0/Static_Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/bin/Debug/net9.0/Static_Constructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/refint/Static_Constructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/Static_Constructor.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Static_Constructor/Static_Constructor/obj/Debug/net9.0/ref/Static_Constructor.dll
