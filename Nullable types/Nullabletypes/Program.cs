@@ -28,7 +28,7 @@ namespace Program
             if (p3.noOfChildren.HasValue)
             {
                 int x = p3.noOfChildren.Value;
-                Console.WriteLine($"Object P3 children - {x}");
+                Console.WriteLine($"Object P3  children - {x}");
             }
 
 
