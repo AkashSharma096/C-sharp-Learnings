@@ -22,7 +22,7 @@ namespace Program
 
             if (p2.noOfChildren.HasValue)
             {
-                Console.WriteLine($"Object P2 children - {p2.noOfChildren}");
+                Console.WriteLine($"Object P2  children - {p2.noOfChildren}");
             }
 
             if (p3.noOfChildren.HasValue)
