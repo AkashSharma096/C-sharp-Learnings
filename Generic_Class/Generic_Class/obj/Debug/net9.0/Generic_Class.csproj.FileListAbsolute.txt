@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/bin/Debug/net9.0/Generic_Class
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/bin/Debug/net9.0/Generic_Class.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/bin/Debug/net9.0/Generic_Class.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/bin/Debug/net9.0/Generic_Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/bin/Debug/net9.0/Generic_Class.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/refint/Generic_Class.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/Generic_Class.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Generic_Class/Generic_Class/obj/Debug/net9.0/ref/Generic_Class.dll
