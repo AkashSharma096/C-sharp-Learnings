@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generic Method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fba8e19fec82578b001a13834e5ee1886123c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05444df20d70a22dfdd57fb88df8f0eccc25575e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generic Method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generic Method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
