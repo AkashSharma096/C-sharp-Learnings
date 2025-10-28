@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/bin/Debug/net9.0/Extension-Methods
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/bin/Debug/net9.0/Extension-Methods.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/bin/Debug/net9.0/Extension-Methods.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/bin/Debug/net9.0/Extension-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/bin/Debug/net9.0/Extension-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/refint/Extension-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/Extension-Methods.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/Debug/net9.0/ref/Extension-Methods.dll

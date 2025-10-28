@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/Nullable types/Nullabletypes/Nullabletypes.csproj",
-      "projectName": "Nullabletypes",
-      "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/Nullable types/Nullabletypes/Nullabletypes.csproj",
+      "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/Extension-Methods.csproj",
+      "projectName": "Extension-Methods",
+      "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/Extension-Methods.csproj",
       "packagesPath": "/Users/akashsharma/.nuget/packages/",
-      "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/Nullable types/Nullabletypes/obj/",
+      "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/Extension-Methods/Extension-Methods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akashsharma/.nuget/NuGet/NuGet.Config"
