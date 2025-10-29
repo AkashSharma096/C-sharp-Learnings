@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/bin/Debug/net9.0/Destructor
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/bin/Debug/net9.0/Destructor.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/bin/Debug/net9.0/Destructor.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/bin/Debug/net9.0/Destructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/bin/Debug/net9.0/Destructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/refint/Destructor.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/Destructor.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Destructor/Destructor/obj/Debug/net9.0/ref/Destructor.dll
