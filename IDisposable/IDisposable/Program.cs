@@ -19,8 +19,6 @@ namespace IDisposable
                 s2.PerformAction();
             } // Dispose is called automatically here
 
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey();
         }
     }
 }
