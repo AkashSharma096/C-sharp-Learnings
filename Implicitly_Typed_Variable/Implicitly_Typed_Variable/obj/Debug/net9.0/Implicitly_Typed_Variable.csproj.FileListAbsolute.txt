@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/bin/Debug/net9.0/Implicitly_Typed_Variable
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/bin/Debug/net9.0/Implicitly_Typed_Variable.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/bin/Debug/net9.0/Implicitly_Typed_Variable.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/bin/Debug/net9.0/Implicitly_Typed_Variable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/bin/Debug/net9.0/Implicitly_Typed_Variable.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/refint/Implicitly_Typed_Variable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/Implicitly_Typed_Variable.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Implicitly_Typed_Variable/Implicitly_Typed_Variable/obj/Debug/net9.0/ref/Implicitly_Typed_Variable.dll
