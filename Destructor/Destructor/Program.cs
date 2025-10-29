@@ -8,5 +8,5 @@ namespace Destructor
         {
             Sample s1 = new Sample();
         }
-    }
+    }//destructor will be called here. 
 }
