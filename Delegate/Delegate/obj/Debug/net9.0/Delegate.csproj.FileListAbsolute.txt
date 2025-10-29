@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/bin/Debug/net9.0/Delegate
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/bin/Debug/net9.0/Delegate.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/bin/Debug/net9.0/Delegate.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/bin/Debug/net9.0/Delegate.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/bin/Debug/net9.0/Delegate.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/refint/Delegate.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/Delegate.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate/Delegate/obj/Debug/net9.0/ref/Delegate.dll
