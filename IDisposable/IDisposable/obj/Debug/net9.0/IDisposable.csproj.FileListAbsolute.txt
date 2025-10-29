@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/bin/Debug/net9.0/IDisposable
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/bin/Debug/net9.0/IDisposable.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/bin/Debug/net9.0/IDisposable.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/bin/Debug/net9.0/IDisposable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/bin/Debug/net9.0/IDisposable.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/refint/IDisposable.dll
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/IDisposable.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/IDisposable/IDisposable/obj/Debug/net9.0/ref/IDisposable.dll
