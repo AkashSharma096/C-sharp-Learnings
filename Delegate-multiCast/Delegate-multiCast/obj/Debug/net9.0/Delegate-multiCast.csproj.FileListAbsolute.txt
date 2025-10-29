@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/bin/Debug/net9.0/Delegate-multiCast
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/bin/Debug/net9.0/Delegate-multiCast.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/bin/Debug/net9.0/Delegate-multiCast.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/bin/Debug/net9.0/Delegate-multiCast.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/bin/Debug/net9.0/Delegate-multiCast.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/refint/Delegate-multiCast.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/Delegate-multiCast.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Delegate-multiCast/Delegate-multiCast/obj/Debug/net9.0/ref/Delegate-multiCast.dll
