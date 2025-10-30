@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/bin/Debug/net9.0/EventWithLambdaExpression
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/bin/Debug/net9.0/EventWithLambdaExpression.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/bin/Debug/net9.0/EventWithLambdaExpression.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/bin/Debug/net9.0/EventWithLambdaExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/bin/Debug/net9.0/EventWithLambdaExpression.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/refint/EventWithLambdaExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/EventWithLambdaExpression.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/EventWithLambdaExpression/EventWithLambdaExpression/obj/Debug/net9.0/ref/EventWithLambdaExpression.dll
