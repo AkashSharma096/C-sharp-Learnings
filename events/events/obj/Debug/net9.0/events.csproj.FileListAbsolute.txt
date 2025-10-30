@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/bin/Debug/net9.0/events
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/bin/Debug/net9.0/events.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/bin/Debug/net9.0/events.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/bin/Debug/net9.0/events.dll
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/bin/Debug/net9.0/events.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.dll
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/refint/events.dll
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/events.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/events/events/obj/Debug/net9.0/ref/events.dll
