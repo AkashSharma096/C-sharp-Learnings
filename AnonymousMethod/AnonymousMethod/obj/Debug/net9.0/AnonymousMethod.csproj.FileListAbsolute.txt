@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/bin/Debug/net9.0/AnonymousMethod
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/bin/Debug/net9.0/AnonymousMethod.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/bin/Debug/net9.0/AnonymousMethod.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/bin/Debug/net9.0/AnonymousMethod.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/bin/Debug/net9.0/AnonymousMethod.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/refint/AnonymousMethod.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/AnonymousMethod.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AnonymousMethod/AnonymousMethod/obj/Debug/net9.0/ref/AnonymousMethod.dll
