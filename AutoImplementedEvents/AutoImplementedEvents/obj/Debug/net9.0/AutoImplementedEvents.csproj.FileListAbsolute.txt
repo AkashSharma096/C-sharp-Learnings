@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/bin/Debug/net9.0/AutoImplementedEvents
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/bin/Debug/net9.0/AutoImplementedEvents.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/bin/Debug/net9.0/AutoImplementedEvents.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/bin/Debug/net9.0/AutoImplementedEvents.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/bin/Debug/net9.0/AutoImplementedEvents.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/refint/AutoImplementedEvents.dll
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/AutoImplementedEvents.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/AutoImplementedEvents/AutoImplementedEvents/obj/Debug/net9.0/ref/AutoImplementedEvents.dll
