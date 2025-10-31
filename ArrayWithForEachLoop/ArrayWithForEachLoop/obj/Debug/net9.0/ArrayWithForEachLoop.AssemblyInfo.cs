@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayWithForEachLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aeb99c5e4cbc764adc723e8bf9179763ce26e87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6113da287957f4c538d5e04f6826449ae2e2618f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayWithForEachLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayWithForEachLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

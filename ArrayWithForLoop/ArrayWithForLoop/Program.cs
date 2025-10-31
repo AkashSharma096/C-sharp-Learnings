@@ -35,6 +35,13 @@ namespace ArrayWithForLoop
                 // Print each string element to the console
                 Console.WriteLine($"String at index {i} is {b[i]}");
             }
+
+            // print in reverse order using index -1 
+            Console.WriteLine(); // Print a blank line for better readability.
+            for (int i = a.Length - 1; i >= 0; i--)
+            {
+                Console.WriteLine($"Number at index {i} is {a[i]}");
+            }
         }
     }
 }
