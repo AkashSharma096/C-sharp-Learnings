@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/bin/Debug/net9.0/SwitchExpression
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/bin/Debug/net9.0/SwitchExpression.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/bin/Debug/net9.0/SwitchExpression.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/bin/Debug/net9.0/SwitchExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/bin/Debug/net9.0/SwitchExpression.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/refint/SwitchExpression.dll
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/SwitchExpression.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/SwitchExpression/SwitchExpression/obj/Debug/net9.0/ref/SwitchExpression.dll
