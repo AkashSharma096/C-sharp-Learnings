@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/bin/Debug/net9.0/ArrayWithForLoop
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/bin/Debug/net9.0/ArrayWithForLoop.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/bin/Debug/net9.0/ArrayWithForLoop.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/bin/Debug/net9.0/ArrayWithForLoop.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/bin/Debug/net9.0/ArrayWithForLoop.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/refint/ArrayWithForLoop.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ArrayWithForLoop.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayWithForLoop/ArrayWithForLoop/obj/Debug/net9.0/ref/ArrayWithForLoop.dll
