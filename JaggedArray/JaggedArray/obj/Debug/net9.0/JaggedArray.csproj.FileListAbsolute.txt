@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/bin/Debug/net9.0/JaggedArray
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/bin/Debug/net9.0/JaggedArray.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/bin/Debug/net9.0/JaggedArray.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/bin/Debug/net9.0/JaggedArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/bin/Debug/net9.0/JaggedArray.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/refint/JaggedArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/JaggedArray.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/JaggedArray/JaggedArray/obj/Debug/net9.0/ref/JaggedArray.dll
