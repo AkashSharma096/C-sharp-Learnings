@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/bin/Debug/net9.0/ArrayofObjects
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/bin/Debug/net9.0/ArrayofObjects.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/bin/Debug/net9.0/ArrayofObjects.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/bin/Debug/net9.0/ArrayofObjects.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/bin/Debug/net9.0/ArrayofObjects.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/refint/ArrayofObjects.dll
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ArrayofObjects.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/ArrayofObjects/ArrayofObjects/obj/Debug/net9.0/ref/ArrayofObjects.dll
