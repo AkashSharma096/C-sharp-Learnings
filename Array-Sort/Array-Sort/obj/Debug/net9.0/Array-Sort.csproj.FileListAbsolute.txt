@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/bin/Debug/net9.0/Array-Sort
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/bin/Debug/net9.0/Array-Sort.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/bin/Debug/net9.0/Array-Sort.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/bin/Debug/net9.0/Array-Sort.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/bin/Debug/net9.0/Array-Sort.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/refint/Array-Sort.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/Array-Sort.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Sort/Array-Sort/obj/Debug/net9.0/ref/Array-Sort.dll
