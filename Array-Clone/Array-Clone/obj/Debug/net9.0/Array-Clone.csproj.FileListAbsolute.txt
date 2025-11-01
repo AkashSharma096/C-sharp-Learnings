@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/bin/Debug/net9.0/Array-Clone
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/bin/Debug/net9.0/Array-Clone.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/bin/Debug/net9.0/Array-Clone.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/bin/Debug/net9.0/Array-Clone.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/bin/Debug/net9.0/Array-Clone.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/refint/Array-Clone.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/Array-Clone.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clone/Array-Clone/obj/Debug/net9.0/ref/Array-Clone.dll
