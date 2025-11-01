@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/bin/Debug/net9.0/Array-Clear
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/bin/Debug/net9.0/Array-Clear.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/bin/Debug/net9.0/Array-Clear.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/bin/Debug/net9.0/Array-Clear.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/bin/Debug/net9.0/Array-Clear.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/refint/Array-Clear.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/Array-Clear.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Clear/Array-Clear/obj/Debug/net9.0/ref/Array-Clear.dll
