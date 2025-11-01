@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/bin/Debug/net9.0/Array-Reverse
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/bin/Debug/net9.0/Array-Reverse.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/bin/Debug/net9.0/Array-Reverse.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/bin/Debug/net9.0/Array-Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/bin/Debug/net9.0/Array-Reverse.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/refint/Array-Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/Array-Reverse.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-Reverse/Array-Reverse/obj/Debug/net9.0/ref/Array-Reverse.dll
