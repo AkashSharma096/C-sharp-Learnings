@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/bin/Debug/net9.0/Array-multiDimensional
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/bin/Debug/net9.0/Array-multiDimensional.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/bin/Debug/net9.0/Array-multiDimensional.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/bin/Debug/net9.0/Array-multiDimensional.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/bin/Debug/net9.0/Array-multiDimensional.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/refint/Array-multiDimensional.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/Array-multiDimensional.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Array-multiDimensional/Array-multiDimensional/obj/Debug/net9.0/ref/Array-multiDimensional.dll
