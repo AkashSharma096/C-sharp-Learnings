@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/bin/Debug/net9.0/List-AddRange
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/bin/Debug/net9.0/List-AddRange.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/bin/Debug/net9.0/List-AddRange.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/bin/Debug/net9.0/List-AddRange.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/bin/Debug/net9.0/List-AddRange.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/refint/List-AddRange.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/List-AddRange.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-AddRange/List-AddRange/obj/Debug/net9.0/ref/List-AddRange.dll

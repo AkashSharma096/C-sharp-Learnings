@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/bin/Debug/net9.0/List-Add
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/bin/Debug/net9.0/List-Add.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/bin/Debug/net9.0/List-Add.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/bin/Debug/net9.0/List-Add.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/bin/Debug/net9.0/List-Add.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/refint/List-Add.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/List-Add.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Add/List-Add/obj/Debug/net9.0/ref/List-Add.dll
