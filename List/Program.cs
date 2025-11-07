@@ -28,11 +28,14 @@ namespace List
                 Console.WriteLine(number);
             }
 
+            // create a list of strings.
+            List<string> fruits = new List<string>(6) { "Apple", "Banana", "Cherry", "Date", "Elderberry", "Fig" };
+
             // print the list using for loop
             Console.WriteLine("List of numbers using for loop:");
-            for (int i = 0; i < numbers.Count; i++)
+            for (int i = 0; i < fruits.Count; i++)
             {
-                Console.WriteLine(numbers[i]);
+                Console.WriteLine(fruits[i]);
             }
         }
     }
