@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/bin/Debug/net9.0/List-Remove-Methods
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/bin/Debug/net9.0/List-Remove-Methods.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/bin/Debug/net9.0/List-Remove-Methods.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/bin/Debug/net9.0/List-Remove-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/bin/Debug/net9.0/List-Remove-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/refint/List-Remove-Methods.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/List-Remove-Methods.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Remove-Methods/List-Remove-Methods/obj/Debug/net9.0/ref/List-Remove-Methods.dll
