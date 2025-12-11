@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/bin/Debug/net9.0/List-ToArray
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/bin/Debug/net9.0/List-ToArray.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/bin/Debug/net9.0/List-ToArray.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/bin/Debug/net9.0/List-ToArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/bin/Debug/net9.0/List-ToArray.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/refint/List-ToArray.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/List-ToArray.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ToArray/List-ToArray/obj/Debug/net9.0/ref/List-ToArray.dll
