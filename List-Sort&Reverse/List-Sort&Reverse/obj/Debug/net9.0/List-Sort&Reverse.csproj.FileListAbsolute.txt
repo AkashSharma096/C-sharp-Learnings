@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/bin/Debug/net9.0/List-Sort&Reverse
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/bin/Debug/net9.0/List-Sort&Reverse.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/bin/Debug/net9.0/List-Sort&Reverse.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/bin/Debug/net9.0/List-Sort&Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/bin/Debug/net9.0/List-Sort&Reverse.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/refint/List-Sort&Reverse.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/List-Sort&Reverse.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-Sort&Reverse/List-Sort&Reverse/obj/Debug/net9.0/ref/List-Sort&Reverse.dll
