@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/akashsharma/Development/C-sharp-Learnings/List-IndexOf/List-IndexOf/List-IndexOf.csproj": {}
+    "/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/List-BinarySearch.csproj": {}
   },
   "projects": {
-    "/Users/akashsharma/Development/C-sharp-Learnings/List-IndexOf/List-IndexOf/List-IndexOf.csproj": {
+    "/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/List-BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/List-IndexOf/List-IndexOf/List-IndexOf.csproj",
-        "projectName": "List-IndexOf",
-        "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/List-IndexOf/List-IndexOf/List-IndexOf.csproj",
+        "projectUniqueName": "/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/List-BinarySearch.csproj",
+        "projectName": "List-BinarySearch",
+        "projectPath": "/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/List-BinarySearch.csproj",
         "packagesPath": "/Users/akashsharma/.nuget/packages/",
-        "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/List-IndexOf/List-IndexOf/obj/",
+        "outputPath": "/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/akashsharma/.nuget/NuGet/NuGet.Config"

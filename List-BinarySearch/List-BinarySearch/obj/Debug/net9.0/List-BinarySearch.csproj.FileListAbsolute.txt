@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/bin/Debug/net9.0/List-BinarySearch
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/bin/Debug/net9.0/List-BinarySearch.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/bin/Debug/net9.0/List-BinarySearch.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/bin/Debug/net9.0/List-BinarySearch.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/bin/Debug/net9.0/List-BinarySearch.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/refint/List-BinarySearch.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/List-BinarySearch.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-BinarySearch/List-BinarySearch/obj/Debug/net9.0/ref/List-BinarySearch.dll
