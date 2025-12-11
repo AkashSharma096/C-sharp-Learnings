@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "List-Exists-Find-FindIndex-FindLast-FindLastIndex-FindAll/1.0.0": {
+        "runtime": {
+          "List-Exists-Find-FindIndex-FindLast-FindLastIndex-FindAll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List-Exists-Find-FindIndex-FindLast-FindLastIndex-FindAll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
