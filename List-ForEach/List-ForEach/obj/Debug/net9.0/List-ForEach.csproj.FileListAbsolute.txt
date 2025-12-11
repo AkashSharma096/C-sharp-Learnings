@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/bin/Debug/net9.0/List-ForEach
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/bin/Debug/net9.0/List-ForEach.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/bin/Debug/net9.0/List-ForEach.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/bin/Debug/net9.0/List-ForEach.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/bin/Debug/net9.0/List-ForEach.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/refint/List-ForEach.dll
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/List-ForEach.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/List-ForEach/List-ForEach/obj/Debug/net9.0/ref/List-ForEach.dll
