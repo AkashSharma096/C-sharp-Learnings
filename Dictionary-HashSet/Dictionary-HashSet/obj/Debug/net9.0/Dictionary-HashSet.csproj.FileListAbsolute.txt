@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/bin/Debug/net9.0/Dictionary-HashSet
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/bin/Debug/net9.0/Dictionary-HashSet.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/bin/Debug/net9.0/Dictionary-HashSet.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/bin/Debug/net9.0/Dictionary-HashSet.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/bin/Debug/net9.0/Dictionary-HashSet.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/refint/Dictionary-HashSet.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/Dictionary-HashSet.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Dictionary-HashSet/Dictionary-HashSet/obj/Debug/net9.0/ref/Dictionary-HashSet.dll
