@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/bin/Debug/net9.0/Stack
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/bin/Debug/net9.0/Stack.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/bin/Debug/net9.0/Stack.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/bin/Debug/net9.0/Stack.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/bin/Debug/net9.0/Stack.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/refint/Stack.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/Stack.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Stack/Stack/obj/Debug/net9.0/ref/Stack.dll
