@@ -1,0 +1,15 @@
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/bin/Debug/net9.0/Queue
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/bin/Debug/net9.0/Queue.deps.json
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/bin/Debug/net9.0/Queue.runtimeconfig.json
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/bin/Debug/net9.0/Queue.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/bin/Debug/net9.0/Queue.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.AssemblyInfoInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.AssemblyInfo.cs
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.csproj.CoreCompileInputs.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.sourcelink.json
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/refint/Queue.dll
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.pdb
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/Queue.genruntimeconfig.cache
+/Users/akashsharma/Development/C-sharp-Learnings/Queue/Queue/obj/Debug/net9.0/ref/Queue.dll
